@@ -116,7 +116,7 @@ This app fetches images using an external API (e.g., Unsplash or Pixabay). You c
 
 ##  GIFs:
 
-![Demo GIF](public/assets/search-image-app.gif)
+![Uploading search-image-app.gif…]()
 
 
 
