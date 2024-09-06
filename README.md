@@ -118,7 +118,7 @@ This app fetches images using an external API (e.g., Unsplash or Pixabay). You c
 
 ![search-image-app](https://github.com/user-attachments/assets/5796f52b-139f-444e-afd9-c6d7e5f421f9)
 
-![Uploading search-image-app.gif…]()
+
 
 
 
