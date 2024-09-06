@@ -1,5 +1,3 @@
-
- 
 # Image Search App
 
 This is a React-based Image Search application that allows users to search for images using a search query. The application displays search results with pagination and shows detailed information about each image.
@@ -15,7 +13,7 @@ This is a React-based Image Search application that allows users to search for i
 
 ## Demo
 
-A live demo of the app can be accessed 
+A live demo of the app can be accessed [here](#).
 
 ## Technologies Used
 
@@ -30,33 +28,37 @@ A live demo of the app can be accessed
 
 1. Clone the repository:
 
+   ```bash
    git clone https://github.com/your-username/image-search-app.git
+ Navigate to the project directory:
 
-2.  Navigate to the project directory:
+bash
 
 cd image-search-app
+Install the dependencies:
 
-3. Install the dependencies:
+bash
 
 npm install
+Run the development server:
 
-4. Run the development server:
+bash
 
 npm start
+Open your browser and visit http://localhost:3000 to view the app.
 
-5. Open your browser and visit http://localhost:3000 to view the app.
 
 ## How It Works
 
-Search Input: Users can enter a search term in the search bar, which triggers an API request to fetch relevant images.
+1. Search Input: Users can enter a search term in the search bar, which triggers an API request to fetch relevant images.
 
-Image Results: The images are displayed in a grid format. Clicking on an image opens a modal with detailed information.
+2. Image Results: The images are displayed in a grid format. Clicking on an image opens a modal with detailed information.
 
-Pagination: Users can navigate through different pages of results.
+3. Pagination: Users can navigate through different pages of results.
 
-Detailed View: When an image is clicked, additional image information (e.g., title, description) is displayed in a modal.
+4. Detailed View: When an image is clicked, additional image information (e.g., title, description) is displayed in a modal.
 
 
 ## API Integration
+This app fetches images using an external API (e.g., Unsplash or Pixabay). You can update the API_URL in the /data folder with your API endpoint.
 
-This app fetches images using an external API (e.g., Unsplash or Pixabay). You can update the API_URL in the /data folder with your API endpoint. 
