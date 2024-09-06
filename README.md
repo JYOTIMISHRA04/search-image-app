@@ -30,22 +30,24 @@ A live demo of the app can be accessed [here](#).
 
    ```bash
    git clone https://github.com/your-username/image-search-app.git
- 2. Navigate to the project directory:
+ Navigate to the project directory:
 
 bash
-
+Copy code
 cd image-search-app
-3. Install the dependencies:
+Install the dependencies:
 
 bash
-
+Copy code
 npm install
-4. Run the development server:
+Run the development server:
 
 bash
-
+Copy code
 npm start
-5. Open your browser and visit http://localhost:3000 to view the app.
+Open your browser and visit http://localhost:3000 to view the app.
+
+
 
 
 ## How It Works
