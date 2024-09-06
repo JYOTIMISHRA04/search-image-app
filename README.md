@@ -114,4 +114,9 @@ The app is deployed on Vercel. To deploy your own version, follow these steps:
 This app fetches images using an external API (e.g., Unsplash or Pixabay). You can update the API_URL in the /data folder with your API endpoint.
 
 
-## ![Demo GIF](public\assests\search-image-app.gif)
+##  GIFs:
+```bash
+![Demo GIF](public\assests\search-image-app.gif)
+```
+
+
