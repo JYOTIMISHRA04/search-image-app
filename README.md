@@ -40,13 +40,13 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/JYOTIMISHRA04/Music-Player-UI.git
+   git clone https://github.com/JYOTIMISHRA04/search-image-app
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd spotify-clone
+   cd search-image-app
    ```
 
 3. **Install the dependencies:**
