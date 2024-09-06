@@ -15,7 +15,7 @@ This is a React-based Image Search application that allows users to search for i
 
 ## Demo
 
-A live demo of the app can be accessed [here](#).
+A live demo of the app can be accessed 
 
 ## Technologies Used
 
