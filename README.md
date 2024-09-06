@@ -24,31 +24,82 @@ A live demo of the app can be accessed [here](#).
 - **Custom Hooks**: For handling data fetching and state management.
 - **JavaScript (ES6+)**: For core functionality and logic.
 
-## Installation
+## Getting Started
 
-1. Clone the repository:
+Follow these instructions to set up the project locally.
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- **Node.js** (>= 14.x)
+- **npm** or **yarn**
+
+### Installation
+
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/image-search-app.git
- Navigate to the project directory:
+   git clone https://github.com/JYOTIMISHRA04/Music-Player-UI.git
+   ```
 
-bash
-Copy code
-cd image-search-app
-Install the dependencies:
+2. **Navigate to the project directory:**
 
-bash
-Copy code
-npm install
-Run the development server:
+   ```bash
+   cd spotify-clone
+   ```
 
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to view the app.
+3. **Install the dependencies:**
 
+   Using npm:
 
+   ```bash
+   npm install
+   ```
 
+   Or using yarn:
+
+   ```bash
+   yarn install
+   ```
+
+### Running the App
+
+1. **Start the development server:**
+
+   Using npm:
+
+   ```bash
+   npm start
+   ```
+
+   Or using yarn:
+
+   ```bash
+   yarn start
+   ```
+
+2. **Open the app in your browser:**
+
+   ```bash
+   http://localhost:3000
+   ```
+
+### Deployment
+
+The app is deployed on Vercel. To deploy your own version, follow these steps:
+
+1. **Install the Vercel CLI:**
+
+   ```bash
+   npm install -g vercel
+   ```
+
+2. **Deploy the app:**
+
+   ```bash
+   vercel
+   ```
 
 ## How It Works
 
