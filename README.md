@@ -115,8 +115,9 @@ This app fetches images using an external API (e.g., Unsplash or Pixabay). You c
 
 
 ##  GIFs:
-```bash
-![Demo GIF](public\assests\search-image-app.gif)
-```
+
+![Demo GIF](public/assets/search-image-app.gif)
+
+
 
 
