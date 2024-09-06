@@ -11,9 +11,9 @@ This is a React-based Image Search application that allows users to search for i
 - Pagination for browsing through search results
 - Clean and intuitive UI with Material-UI components
 
-## Demo
+## Access App here -
 
-A live demo of the app can be accessed [here](#).
+https://search-image-app-phi.vercel.app/
 
 ## Technologies Used
 
