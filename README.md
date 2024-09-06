@@ -2,7 +2,7 @@
 
 This is a React-based Image Search application that allows users to search for images using a search query. The application displays search results with pagination and shows detailed information about each image.
 
-# Access App here - https://search-image-app-phi.vercel.app/
+## Access App here - https://search-image-app-phi.vercel.app/
 
 ## Features
 
